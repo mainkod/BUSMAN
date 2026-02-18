@@ -12,7 +12,7 @@ Develop By Rahman Sha Naan @ a.rahmansha@gmail.com since 2022-2026
 ## 📌 Pengenalan  
 
 **BUSMAN** ialah enjin reverse tunnel moden yang membolehkan server tempatan (localhost) diakses dari internet melalui sambungan selamat.  
-Direka sebagai alternatif self-hosted kepada platform tunneling komersial seperti ngrok, dengan kawalan penuh terhadap infrastruktur, domain, data dan model SaaS.  
+Direka sebagai alternatif self-hosted kepada platform tunneling komersial, dengan kawalan penuh terhadap infrastruktur, domain, data dan model SaaS.  
 
 BUSMAN menggabungkan:  
 * 🔁 Reverse Tunnel Engine  
@@ -105,7 +105,7 @@ Develop By Rahman Sha Naan @ a.rahmansha@gmail.com from Sabah, Malaysia. Since 2
 ## 📌 Introduction  
 
 **BUSMAN** is a modern reverse tunnel engine that allows local servers (localhost) to be accessed from the internet through secure outbound tunnels.  
-It is designed as a self-hosted alternative to commercial tunneling platforms like ngrok, with full control over infrastructure, domains, data, and SaaS models.  
+It is designed as a self-hosted alternative to commercial tunneling platforms, with full control over infrastructure, domains, data, and SaaS models.  
 
 BUSMAN combines:  
 * 🔁 Reverse Tunnel Engine  
